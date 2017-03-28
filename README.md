@@ -1,7 +1,7 @@
 # csharpcmd
 C# cmd file header
 
-Allows to create Windows .cmd from any runable c# file. When started, will compile , run and then delete executable file.
+Allows to create Windows .cmd from any runnable c# file. When started, will compile , run and then delete executable file.
 
 Very similar thing could be found on internet - it is there for a pretty long time. Advantage of this one is that it looks for most recent csc compiler in registry, whichever it is, instead of going through list of predefined  .NET versions.
 
