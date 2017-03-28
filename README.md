@@ -1,5 +1,5 @@
 # csharpcmd
-C#( or, actually, any .NET) cmd file header
+C# cmd file header
 
 Allows to create Windows .cmd from any runable c# file. When started, will compile , run and then delete executable file.
 
